@@ -1,4 +1,4 @@
-What is Strapi?
+########### What is Strapi?
  
  Strapi is a backend tool that lets you :
 1.	Create Data (like users, blogs, products)
