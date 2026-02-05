@@ -1,5 +1,5 @@
 <h1 align ="center">What is Strapi?</h1>
-<span style ="color:red;">What is strapi?</span>
+
  
    Strapi is a backend tool that lets you :
        
