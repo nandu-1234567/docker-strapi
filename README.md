@@ -8,7 +8,7 @@
 
 <p>
 This document explains how to containerize and run a Strapi application locally using Docker.
-Each step is explained clearly without technical commands.
+
 </p>
 
 <hr>
