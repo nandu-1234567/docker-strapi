@@ -55,7 +55,7 @@ This document explains how to containerize and run a Strapi application locally 
     <li>Docker will install dependencies and prepare the application.</li>
     <li>Wait until the image build process completes successfully.</li>
 </ul>
-![Uploading image.png…]()
+
 
 <hr>
 
