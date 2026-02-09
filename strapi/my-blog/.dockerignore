@@ -1,0 +1,11 @@
+node_modules
+dist
+data
+database
+.build
+.cache
+.env
+.git
+.gitignore
+public/uploads
+*.log
