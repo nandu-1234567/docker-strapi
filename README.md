@@ -3,23 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>Strapi Docker Setup – Step by Step</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            line-height: 1.7;
-            color: #2c3e50;
-        }
-        h1, h2 {
-            color: #1a5276;
-        }
-        ul {
-            margin-left: 25px;
-        }
-        hr {
-            margin: 30px 0;
-        }
-    </style>
+    
+          
+   
 </head>
 <body>
 
@@ -103,21 +89,9 @@ Each step is explained clearly without technical commands.
 
 <hr>
 
-<h2>Important Notes</h2>
-<ul>
-    <li>Strapi uses a local database by default.</li>
-    <li>Data will not persist if the container is removed.</li>
-    <li>For production environments, an external database is recommended.</li>
-</ul>
+
 
 <hr>
-
-<h2>Completion</h2>
-<p>
-You have successfully containerized and run a Strapi application locally using Docker.
-</p>
-
-<p><strong>Done 🎉</strong></p>
 
 </body>
 </html>
