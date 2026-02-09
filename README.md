@@ -2,13 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Strapi Docker Setup – Step by Step</title>
-    
-          
-   
-</head>
+   </head>
 <body>
-
 <h1>Run Strapi Application Locally Using Docker</h1>
 
 <p>
@@ -87,11 +82,6 @@ Each step is explained clearly without technical commands.
     <li>This will shut down the Strapi service safely.</li>
 </ul>
 
-<hr>
-
-
-
-<hr>
 
 </body>
 </html>
