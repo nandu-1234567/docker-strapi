@@ -1,6 +1,6 @@
 FROM node:20
 
-WORKDIR /app
+WORKDIR /strapi/app
 
 ENV HOST=0.0.0.0
 ENV PORT=1337
